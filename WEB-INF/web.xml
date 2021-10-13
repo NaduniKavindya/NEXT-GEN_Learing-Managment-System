@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  
+<servlet>
+ 		<servlet-name>insert_payment</servlet-name>
+ 		<servlet-class>com.nextgen.insert_payment</servlet-class>
+ 
+  </servlet> 
+  <servlet-mapping>
+  	 <servlet-name>insert_payment</servlet-name>
+ 	 <url-pattern>/PAYinsert</url-pattern>
+  </servlet-mapping>
+	
+	 
+<servlet>	
+ 		<servlet-name>searchPayment</servlet-name>
+ 		<servlet-class>com.nextgen.searchPayment</servlet-class>
+ 
+  </servlet>
+  <servlet-mapping>
+  	 <servlet-name>searchPayment</servlet-name>
+ 	 <url-pattern>/PAYsearch</url-pattern>
+  </servlet-mapping>
+	
+
+
+	<servlet>	
+ 		<servlet-name>updatePayment</servlet-name>
+ 		<servlet-class>com.nextgen.updatePayment</servlet-class>
+ 
+  </servlet>
+  <servlet-mapping>
+  	 <servlet-name>updatePayment</servlet-name>
+ 	 <url-pattern>/PAYupdate</url-pattern>
+  </servlet-mapping>
+
+
+<servlet>	
+ 		<servlet-name>DeletePayment</servlet-name>
+ 		<servlet-class>com.nextgen.DeletePayment</servlet-class>
+ 
+  </servlet>
+  <servlet-mapping>
+  	 <servlet-name>DeletePayment</servlet-name>
+ 	 <url-pattern>/PAYdelet</url-pattern>
+  </servlet-mapping>
+
+	 
+       
+
+	
+ 
+</web-app>
