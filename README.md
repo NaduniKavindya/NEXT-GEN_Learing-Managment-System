@@ -17,10 +17,3 @@ The system that we will be designing is able to manage and handle all the work c
 #### Technologies used - Java,HTML,CSS,Javascript
 
 Note - The student's github account should be given in brackets e.g. (IT20212232), this ideally should be your student id 
-<<<<<<< HEAD
-
-=======
-# NEXT-GEN_Learing-Managment-System
->>>>>>> 3739d0a699c65d7590caa6f2b6a07d6ef02a6449
-=======
->>>>>>> 0c06216f24af4df44b964ce8a2d5d55fa94f9942
