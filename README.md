@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Please go under edit and edit this file as needed for your project
 
 # Project Name - Student information and learning mangement system
@@ -18,3 +19,6 @@ The system that we will be designing is able to manage and handle all the work c
 
 Note - The student's github account should be given in brackets e.g. (IT20212232), this ideally should be your student id 
 
+=======
+# NEXT-GEN_Learing-Managment-System
+>>>>>>> 3739d0a699c65d7590caa6f2b6a07d6ef02a6449
