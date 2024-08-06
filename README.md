@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0c06216f24af4df44b964ce8a2d5d55fa94f9942
 Please go under edit and edit this file as needed for your project
 
 # Project Name - Student information and learning mangement system
